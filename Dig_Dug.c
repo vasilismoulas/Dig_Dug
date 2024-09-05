@@ -16,8 +16,6 @@ void down(char arr[N][M],char arr2[N][M],int part2int,int* LDvalue,int* GDvalue,
 
 int main(void)
 {
-                  //Moulas Vasileios A.M:2022202000141 email:dit20141@go.uop.gr
-                 //Koukoufilippas Panagiotis A.M:2022202000100 email:dit20100@go.uop.gr
 
    char DigDoug = '$';    //protagonist of the Game
 
